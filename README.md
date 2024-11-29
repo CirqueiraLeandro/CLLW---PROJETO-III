@@ -15,14 +15,8 @@ Este trabalho utiliza o TMDB Movie Dataset, que inclui dados sobre o enredo, ele
 - Avaliar diferentes algoritmos de recomendação (colaborativos e  baseados em conteúdo) para determinar o mais eficiente na recomendação de filmes.
 - Identificar possíveis inconsistências nos dados, como dados nulos ou incorretos, e propor métodos de correção para garantir a precisão do sistema de recomendação.
 
-# Metodologia
-
-
-# Conclusão
-
-
 # Video de apresentação no YouTube
-
+https://youtu.be/iW5evcX2P0Q
 
 # Contribuição
 Membros do grupo:
